@@ -1,0 +1,14 @@
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\bin\Debug\net6.0\LINQ Demo 1 Syntax.exe
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\bin\Debug\net6.0\LINQ Demo 1 Syntax.deps.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\bin\Debug\net6.0\LINQ Demo 1 Syntax.runtimeconfig.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\bin\Debug\net6.0\LINQ Demo 1 Syntax.dll
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\bin\Debug\net6.0\LINQ Demo 1 Syntax.pdb
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\obj\Debug\net6.0\LINQ Demo 1 Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\obj\Debug\net6.0\LINQ Demo 1 Syntax.AssemblyInfoInputs.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\obj\Debug\net6.0\LINQ Demo 1 Syntax.AssemblyInfo.cs
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\obj\Debug\net6.0\LINQ Demo 1 Syntax.csproj.CoreCompileInputs.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\obj\Debug\net6.0\LINQ Demo 1 Syntax.dll
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\obj\Debug\net6.0\refint\LINQ Demo 1 Syntax.dll
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\obj\Debug\net6.0\LINQ Demo 1 Syntax.pdb
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\obj\Debug\net6.0\LINQ Demo 1 Syntax.genruntimeconfig.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\LINQ Demo 1\LINQ Demo 1\obj\Debug\net6.0\ref\LINQ Demo 1 Syntax.dll
