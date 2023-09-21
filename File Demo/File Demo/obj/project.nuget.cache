@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8nUdEaWuC7GyrocDZItw76WKflCokR22GXQ1tv+FdyZKfXMesO3FrNLTIO+rmhWZ6upR4GUXyPugTy8Fir2iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhardy\\Documents\\GitHub\\CSharp-Knowledge\\File Demo\\File Demo\\File Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhardy\\.nuget\\packages\\htmlagilitypack\\1.11.53\\htmlagilitypack.1.11.53.nupkg.sha512"
+  ],
+  "logs": []
+}
