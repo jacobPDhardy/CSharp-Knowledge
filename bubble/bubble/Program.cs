@@ -27,10 +27,10 @@ int[] bSort(int[] numbers)
         {
                 if (numbers[i] > numbers[i+1])
                 {
-                int temp = numbers[i];
-                numbers[i] = numbers[i+1];
-                numbers[i + 1] = temp;
-                swaps++;
+                    int temp = numbers[i];
+                    numbers[i] = numbers[i+1];
+                    numbers[i + 1] = temp;
+                    swaps++;
                 }
         }
         if (swaps == 0)
