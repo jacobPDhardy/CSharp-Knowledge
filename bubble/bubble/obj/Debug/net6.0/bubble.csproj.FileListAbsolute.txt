@@ -1,0 +1,14 @@
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\bin\Debug\net6.0\bubble.exe
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\bin\Debug\net6.0\bubble.deps.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\bin\Debug\net6.0\bubble.runtimeconfig.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\bin\Debug\net6.0\bubble.dll
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\bin\Debug\net6.0\bubble.pdb
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\obj\Debug\net6.0\bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\obj\Debug\net6.0\bubble.AssemblyInfoInputs.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\obj\Debug\net6.0\bubble.AssemblyInfo.cs
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\obj\Debug\net6.0\bubble.csproj.CoreCompileInputs.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\obj\Debug\net6.0\bubble.dll
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\obj\Debug\net6.0\refint\bubble.dll
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\obj\Debug\net6.0\bubble.pdb
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\obj\Debug\net6.0\bubble.genruntimeconfig.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\bubble\bubble\obj\Debug\net6.0\ref\bubble.dll
