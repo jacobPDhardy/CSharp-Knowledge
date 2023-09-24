@@ -1,0 +1,31 @@
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\bin\Debug\net6.0\appsettings.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\bin\Debug\net6.0\Blazor Tutorial.staticwebassets.runtime.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\bin\Debug\net6.0\Blazor Tutorial.exe
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\bin\Debug\net6.0\Blazor Tutorial.deps.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\bin\Debug\net6.0\Blazor Tutorial.runtimeconfig.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\bin\Debug\net6.0\Blazor Tutorial.dll
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\bin\Debug\net6.0\Blazor Tutorial.pdb
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\Blazor Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\Blazor Tutorial.AssemblyInfoInputs.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\Blazor Tutorial.AssemblyInfo.cs
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\Blazor Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\Blazor Tutorial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\Blazor Tutorial.RazorAssemblyInfo.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\Blazor Tutorial.RazorAssemblyInfo.cs
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\staticwebassets\msbuild.Blazor Tutorial.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\staticwebassets\msbuild.build.Blazor Tutorial.props
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blazor Tutorial.props
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blazor Tutorial.props
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\scopedcss\bundle\Blazor Tutorial.styles.css
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\scopedcss\projectbundle\Blazor Tutorial.bundle.scp.css
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\Blazor Tutorial.dll
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\refint\Blazor Tutorial.dll
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\Blazor Tutorial.pdb
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\Blazor Tutorial.genruntimeconfig.cache
+C:\Users\jhardy\Documents\GitHub\CSharp-Knowledge\Blazor Tutorial\Blazor Tutorial\obj\Debug\net6.0\ref\Blazor Tutorial.dll
