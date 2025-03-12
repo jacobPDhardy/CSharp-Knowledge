@@ -29,10 +29,6 @@ jobs:
       run: dotnet pack
       working-directory: bubble/
 
-    - name: Publish nuget package
-      run: dotnet nuget push "bin/Release/PROJECT_NAME.1.0.0.nupkg" --api-key YOUR_GITHUB_PAT --source "github"
-      working-directory: bubble/
-      
 #    - name: Build project
 #      run: dotnet build --configuration Release --no-restore
 #      working-directory: bubble/
