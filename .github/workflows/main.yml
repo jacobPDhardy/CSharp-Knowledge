@@ -15,15 +15,18 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-
-    - name: have a look
-      run: cd bubble
       
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: '8.0.x'
 
+    - name: move
+      run: cd bubble
+
+    - name: have a look
+      run: ls
+      
     - name: Restore dependencies
       run: dotnet restore
 
