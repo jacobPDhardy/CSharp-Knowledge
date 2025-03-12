@@ -20,15 +20,10 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: '8.0.x'
-
-    - name: move
-      run: cd bubble
-
-    - name: have a look
-      run: ls
       
     - name: Restore dependencies
       run: dotnet restore
+      working-directory: bubble/
 
     - name: Build project
       run: dotnet build --configuration Release --no-restore
